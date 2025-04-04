@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elijah Hawes</h1>
 <h3 align="center">I am a passionate artist and Full Stack developer!</h3>
 
-- 🔭 I’m currently working on [CodeHouse-Opportunities-App](https://github.com/CodeHouseOrg/codehouse-opportunities-app)
+- 🔭 I’m currently working on a BotPress Nail Tech ChatBot
 
 - 🌱 I’m currently learning **Python**
 
